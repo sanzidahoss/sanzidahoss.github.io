@@ -3,7 +3,7 @@ title: Project Works
 ---
 ## Autonomous vehicle and human driven vehicle cooperation using stochastic model predictive control             
 **Funding agency: National Science Foundation (NSF), Grant: CPS 2212582**
-![Bike Study](/assets/img/coop.png)
+![Bike Study](/assets/img/coop_proj.png)
 -	Investigate the coordination of autonomous vehicles (AVs) and intelligent human vehicles (IHVs) in a connected environment
 -	Model the motion of the IHVs considering various uncertainties of the human behavior
 -	Optimize control inputs for the AVs and advisory directives for the drivers on the IHVs to coordinate their motions
