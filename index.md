@@ -5,7 +5,7 @@ Subtitle: Ph.D. student in Mechanical Engineering, at Oklahoma State University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: assets/img/prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Ph.D. Candidate, Graduate Research and Teaching Assistant</p>
