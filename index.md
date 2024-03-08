@@ -2,7 +2,7 @@
 layout: page
 title: Sanzida Hossain   
 ---
-![Sanzida](/assets/img/prof_pic2.png=100x)
+![Sanzida](/assets/img/prof_pic2.png width="200" height="200")
 
 **Ph.D. Candidate, Graduate Research and Teaching Assistant**
 
