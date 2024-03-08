@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Sanzida Hossain
-![Sanzida](/assets/img/prof_pic2.png)
 Subtitle: <p>Ph.D. Candidate, Graduate Research and Teaching Assistant</p>
     <p>Control, Robotics and Automation Laboratory (CoRAL)</p>
     <p>Department of Mechanical and Aerospace Engineering</p>
@@ -9,7 +8,7 @@ Subtitle: <p>Ph.D. Candidate, Graduate Research and Teaching Assistant</p>
     <p>ATRC-324, Stillwater, OK 74078</p>
     <p>sanzida.hossain@okstate.edu </p>    
 ---
-
+![Sanzida](/assets/img/prof_pic2.png)
 Ph.D. student in Mechanical Engineering, at Oklahoma State University. 
 Research work focuses on autonomous vehicles, specifically control, 
 optimization and testing of cooperative driving between human-driven 
