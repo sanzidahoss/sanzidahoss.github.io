@@ -1,4 +1,3 @@
-![Sanzida](/assets/img/prof_pic.jpg)
 
 
 ## Skills
