@@ -1,9 +1,9 @@
 ---
 title: Project Works
 ---
-## Autonomous vehicle and human driven vehicle cooperation using stochastic model predictive control             
+## Cooperative Driving in Heterogeneous Traffic of Manned and Unmanned Vehicles (_Present_)      
 
-![Bike Study](/assets/img/coop_proj.png)
+![Coop project](/assets/img/coop_proj.png)
 
 **Funding agency: National Science Foundation (NSF), Grant: CPS 2212582**
 
@@ -12,17 +12,16 @@ title: Project Works
 -	Optimize control inputs for the AVs and advisory directives for the drivers on the IHVs to coordinate their motions
 -	Leverage machine learning approaches and distributed optimization to reduce the computational time of the optimization.
 
-## Under actuated system modeling and nonlinear controller design
--	Applied Direct Lyapunov Approach, an energy-based nonlinear control approach on underactuated mechanical systems
--	Determined the control law that will stabilize the nonlinear system by solving for the potential from the dynamic PDE
--	Implemented the control law and investigated the response of systems using MATLAB and Simulink simulation
-
-## Motion Equations for the Ball and Beam and the Ball and Arc Systems
+## Motion Equations for the Ball and Beam and the Ball and Arc Systems (_2019_)
 -	Identified that the conventional models consider the ball as a point mass which disregards the kinematics of the ball
 -	Modeled the ball and beam and the ball and arc system considering the ball kinematics
 -	Introduced dimensionless quantities to the dynamic equations of both systems rendering them in dimensionless form
 -	Conducted comparisons between different ball and beam models with this new modified model
 
+## Under actuated system modeling and nonlinear controller design (_2018_)
+-	Applied Direct Lyapunov Approach, an energy-based nonlinear control approach on underactuated mechanical systems
+-	Determined the control law that will stabilize the nonlinear system by solving for the potential from the dynamic PDE
+-	Implemented the control law and investigated the response of systems using MATLAB and Simulink simulation
 
 ## Controlling an Inverted pendulum cart (_2018_)
 -	Modeled the inverted pendulum cart system and derived its dynamic equations
