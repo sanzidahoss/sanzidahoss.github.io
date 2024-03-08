@@ -1,19 +1,13 @@
 ---
 layout: page
 title: Sanzida Hossain
-Subtitle: Ph.D. student in Mechanical Engineering, at Oklahoma State University
-
-profile:
-  align: right
-  image: assets/img/prof_pic.jpg
-  image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>Ph.D. Candidate, Graduate Research and Teaching Assistant</p>
+![Sanzida](/assets/img/prof_pic2.png)
+Subtitle: <p>Ph.D. Candidate, Graduate Research and Teaching Assistant</p>
     <p>Control, Robotics and Automation Laboratory (CoRAL)</p>
     <p>Department of Mechanical and Aerospace Engineering</p>
     <p>Oklahoma State University</p>
     <p>ATRC-324, Stillwater, OK 74078</p>
-    <p>sanzida.hossain@okstate.edu </p>
+    <p>sanzida.hossain@okstate.edu </p>    
 ---
 
 Ph.D. student in Mechanical Engineering, at Oklahoma State University. 
