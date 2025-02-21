@@ -4,7 +4,7 @@ title: CV of Sanzida Hossain
 Subtitle: sanzida.hossain@okstate.edu
 ---
 ## Skills
--	Tools: MATLAB, Simulink, LabVIEW, Maple, Git, AutoCAD, Solidworks, SUMO, EmBitz, Proteus Design Suite, RSLogix 5000
+-	Tools: MATLAB, Simulink, CARLA,	SUMO,	AutoCAD,	Solidworks,	MS office,	Linux,	LabVIEW,	Git,	RSLogix 5000,	Stateflow
 -	Programming language: C, C++, MATLAB, Python, Bash
 -	Micro-Controller: PIC microcontroller (8 bit), Arduino, STM32 (32 bit)
 
