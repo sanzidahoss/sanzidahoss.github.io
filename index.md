@@ -4,25 +4,13 @@ title: Sanzida Hossain
 ---
 ![Sanzida](/assets/img/prof_pic2.png)
 
-**Ph.D. Candidate, Graduate Research and Teaching Assistant**
-
-**Control, Robotics and Automation Laboratory (CoRAL)**
-
-**Department of Mechanical and Aerospace Engineering**
-
+**Incoming Visiting Assistant Professor, Starting from January 2027*
+**Currently Adjunct Assistant Professor**
+**Materials, Mechatronics and Manufacturing Engineering Department**
 **Oklahoma State University**
-
-**ATRC-324, Stillwater, OK 74078**
+**Stillwater, Oklahoma**
 
 **sanzida.hossain@okstate.edu**
 
 ## About Me
-Ph.D. student in Mechanical Engineering, at Oklahoma State University. 
-Research work focuses on autonomous vehicles, specifically control, 
-optimization and testing of cooperative driving between human-driven 
-and autonomous vehicles. Six years of research experience and seven years 
-of teaching experience. Job experience as a controls engineer at Intralox LLC.
-Solid background in classical and advanced control theory, control system design,
-and embedded controls software development. 6 years of experience in MATLAB including M scripting,
-debugging, and Model-based Development tools in Simulink for MIL.	6 years of experience in scripting
-and debugging in C programming and 3 years of object-oriented experience in C++ and python.
+Currently serving as an Adjunct Assistant Professor at Oklahoma State University, with responsibilities in undergraduate engineering instruction, curriculum development, course management, and student mentorship. Independently teaching Microprocessor I, including developing course materials, designing assessments, supervising teaching assistants, and incorporating hands-on engineering projects. Hold a Ph.D. in Mechanical Engineering from Oklahoma State University, with 10 years of teaching experience and 9 years of research experience. Research expertise includes autonomous vehicles, control systems, optimization, and experimental testing of cooperative driving between human-driven and autonomous vehicles. Also have industry experience as a Controls and Automation Engineer at Intralox LLC. Passionate about engineering education, with a focus on developing students' critical thinking, practical engineering skills, and independent problem-solving abilities through hands-on learning and design projects.
