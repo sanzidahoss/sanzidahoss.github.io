@@ -36,6 +36,22 @@ Funding agency: National Science Foundation (NSF), Grant: CPS 2212582
 -	Conducted comparisons between different ball and beam models with this new modified model
 
 ## Professional Experience
+**Visiting Assistant Professor (Incoming)			     Appointment begins January 2027**
+Materials, Mechatronics and Manufacturing Engineering, Oklahoma State University, Stillwater, OK   
+-	Scheduled to teach three courses per semester, including Microprocessor II and Dynamics.
+-	Will develop course materials, deliver lectures, and design assignments and assessments.
+-	Will provide academic support and guide students through practical engineering applications.
+
+**Adjunct Assistant Professor							Aug 2026 - present Materials**
+Mechatronics and Manufacturing Engineering, Oklahoma State University, Stillwater, OK   
+Taught course: Microprocessor I (EET 3253)
+-	Independently developed and delivered lectures on microcontroller programming, digital and analog interfaces, timers, PWM, and peripheral communication.
+-	Designed hands-on demonstrations using PIC microcontrollers and MPLAB X IDE to connect theoretical concepts with hardware implementation.
+-	Created homework assignments, exams, grading rubrics, and a final hardware project integrating sensors, keypad input, and lighting control.
+-	Supervised a teaching assistant and supported in-person and online students through office hours and technical guidance.
+
+
+
 **Graduate Research Assistant, Oklahoma State University, Stillwater, OK (_January 2022- present_)**
 -	Formulated autonomous and human-driven vehicle coordination in a connected environment as a mixed integer problem (MIP) using discrete hybrid system automata (DHSA)
 -	Designed stochastic model predictive controller (sMPC) to address the uncertainty of human driver behavior
