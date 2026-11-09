@@ -16,7 +16,8 @@ title: Publications
   [Paper: Incorporating Stochastic Human Driving States in Cooperative Driving Between a Human-Driven Vehicle and an Autonomous Vehicle](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ytdiw5gAAAAJ&sortby=pubdate&citation_for_view=ytdiw5gAAAAJ:0EnyYjriUFMC)
 
 -	S. Hossain, J. Lu, H. Bai, and W. Sheng, “Cooperative driving between autonomous vehicles and human-driven vehicles considering stochastic human input and system delay,” in 2023 European Control Conference (ECC), 2023
-  [Paper: Cooperative driving between autonomous vehicles and human-driven vehicles considering stochastic human input and system delay](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ytdiw5gAAAAJ&sortby=pubdate&citation_for_view=ytdiw5gAAAAJ:hqOjcs7Dif8C)
+
+ 	[Paper: Cooperative driving between autonomous vehicles and human-driven vehicles considering stochastic human input and system delay](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ytdiw5gAAAAJ&sortby=pubdate&citation_for_view=ytdiw5gAAAAJ:hqOjcs7Dif8C)
 
 -	J. Lu, S. Hossain, W. Sheng, and H. Bai, “Cooperative driving in mixed traffic of manned and unmanned vehicles based on human driving behavior understanding,” in 2023 IEEE International Conference on Robotics and Automation (ICRA), 2023
 
