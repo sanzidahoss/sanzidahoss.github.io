@@ -12,13 +12,13 @@ Subtitle: sanzida.hossain@okstate.edu
 
 ## Professional Experience
 **Visiting Assistant Professor (Incoming), Materials, Mechatronics and Manufacturing Engineering, Oklahoma State University, Stillwater, OK**			     (Appointment begins January 2027)
-
-Materials, Mechatronics and Manufacturing Engineering, Oklahoma State University, Stillwater, OK   
+ 
 -	Scheduled to teach three courses per semester, including Microprocessor II and Dynamics.
 -	Will develop course materials, deliver lectures, and design assignments and assessments.
 -	Will provide academic support and guide students through practical engineering applications.
 
 **Adjunct Assistant Professor, Materials, Mechatronics and Manufacturing Engineering, Oklahoma State University, Stillwater, OK**							(Aug 2026 - present) 
+
 Taught course: Microprocessor I (EET 3253)
 -	Independently developed and delivered lectures on microcontroller programming, digital and analog interfaces, timers, PWM, and peripheral communication.
 -	Designed hands-on demonstrations using PIC microcontrollers and MPLAB X IDE to connect theoretical concepts with hardware implementation.
@@ -38,7 +38,8 @@ Taught course: Microprocessor I (EET 3253)
 
 
 **Graduate Teaching Assistant, Oklahoma State University, Stillwater, OK** (_August 2021- present_)
-- Taught courses: Elementary Dynamics, Engineering Design with CAD, Computer Methods in Analysis & Design 
+
+Taught courses: Elementary Dynamics, Engineering Design with CAD, Computer Methods in Analysis & Design 
 -	Prepared and delivered lab/discussion lectures on related topics
 -	Holding office hours to help students understand difficult topics
 -	Exam and assignment grading
@@ -50,7 +51,8 @@ Taught course: Microprocessor I (EET 3253)
 -	Trained on different designs of automatic sorting conveyors developed by Intralox
 
 **Graduate Teaching Assistant, Kansas State University, Manhattan, KS** (_August 2017- December 2020_)
-- Taught course: Classical control theory
+
+Taught course: Classical control theory
 -	Delivered lab lectures on related classical control theory topics, such as modeling of dynamic systems and control system design
 -	Demonstrated MATLAB coding, Simulink, Control System Designer toolbox and experimental analysis of control systems in the labs
 -	Taught how to design PID controllers for dynamic systems with various load conditions
