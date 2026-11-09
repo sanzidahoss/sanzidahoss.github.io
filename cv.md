@@ -96,25 +96,38 @@ Funding agency: National Science Foundation (NSF), Grant: CPS 2212582
 -	Conducted comparisons between different ball and beam models with this new modified model
 
 
+
 ## Publications
 
-**Journal Articles**
-[1] J. Lu, S. Hossain, W. Sheng, and H. Bai, “Personalized and adaptive driver advising for cooperative driving in mixed traffic,” IEEE Transactions on Vehicular Technology, in press, 2026.
-[2] S. Hossain, J. Lu, H. Bai, and W. Sheng, “A multi-vehicle, multi-lane cooperative driving framework in mixed traffic with driving advisory,” IEEE Transactions on Vehicular Technology, 2026.
-[3] J. Lu, S. Hossain, W. Sheng, and H. Bai, “A research testbed for intelligent and cooperative driving in mixed traffic,” IEEE Transactions on Intelligent Transportation Systems, 2024.
-[4] C. Lare, W. N. White, and S. Hossain, “Motion equations for the ball and beam and the ball and arc systems,” ASME Journal of Dynamic Systems, Measurement, and Control, 2019.
+### Journal Articles
 
-**Peer Reviewed Conference Papers**
+1. J. Lu, **S. Hossain**, W. Sheng, and H. Bai, “Personalized and adaptive driver advising for cooperative driving in mixed traffic,” *IEEE Transactions on Vehicular Technology*, in press, 2026.
 
-[5] S. Hossain, J. Lu, H. Bai, and W. Sheng, “Incorporating stochastic human driving states in cooperative driving between a human-driven vehicle and an autonomous vehicle,” in Proc. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Detroit, MI, USA, 2023.
-[6] S. Hossain, J. Lu, H. Bai, and W. Sheng, “Cooperative driving between autonomous vehicles and human-driven vehicles considering stochastic human input and system delay,” in Proc. European Control Conference (ECC), 2023.
-[7] J. Lu, S. Hossain, W. Sheng, and H. Bai, “Cooperative driving in mixed traffic of manned and unmanned vehicles based on human driving behavior understanding,” in Proc. IEEE International Conference on Robotics and Automation (ICRA), 2023.
-[8] S. Hossain, J. Lu, H. Bai, and W. Sheng, “Stochastic model predictive control for coordination of autonomous and human-driven vehicles,” in Proc. 4th IFAC Workshop on Cyber-Physical and Human Systems (CPHS), 2022.
-[9] J. Lu, R. Stracener, W. Sheng, H. Bai, and S. Hossain, “Development of a research testbed for cooperative driving in mixed traffic of human-driven and autonomous vehicles,” in Proc. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022.
-[10] M. R. Rashid, N. Uzzaman, S. Hossain, and N. K. Das Shuvra, “Development of a self-navigating algorithm for library book finder robot,” in Proc. 3rd International Conference on Electrical Information and Communication Technology (EICT), 2017.
-[11] N. Uzzaman, S. Hossain, and A. Hossain, “Geometrical approach for determining the throwing destination of an automatic throwing robot,” in Proc. 3rd International Conference on Electrical Information and Communication Technology (EICT), 2016.
-[12] N. Uzzaman, S. Hossain, R. Rashid, and A. Hossain, “A comparative analysis between light-dependent and ultrasonic method of gesture recognition,” in Proc. 3rd International Conference on Electrical Information and Communication Technology (EICT), 2016.
-[13] N. Uzzaman, S. Hossain, and A. Hossain, “Controlling an industrial robotic arm by light dependent gesture recognition,” in Proc. 11th International Conference on Mechanical Engineering (ICME), BUET, Bangladesh, 2015.
+2. **S. Hossain**, J. Lu, H. Bai, and W. Sheng, “A multi-vehicle, multi-lane cooperative driving framework in mixed traffic with driving advisory,” *IEEE Transactions on Vehicular Technology*, 2026.
+
+3. J. Lu, **S. Hossain**, W. Sheng, and H. Bai, “A research testbed for intelligent and cooperative driving in mixed traffic,” *IEEE Transactions on Intelligent Transportation Systems*, 2024.
+
+4. C. Lare, W. N. White, and **S. Hossain**, “Motion equations for the ball and beam and the ball and arc systems,” *ASME Journal of Dynamic Systems, Measurement, and Control*, vol. 141, no. 12, Art. no. 121006, 2019. https://doi.org/10.1115/1.4044619
+
+### Peer-Reviewed Conference Papers
+
+5. **S. Hossain**, J. Lu, H. Bai, and W. Sheng, “Incorporating stochastic human driving states in cooperative driving between a human-driven vehicle and an autonomous vehicle,” in *Proc. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Detroit, MI, USA, 2023.
+
+6. **S. Hossain**, J. Lu, H. Bai, and W. Sheng, “Cooperative driving between autonomous vehicles and human-driven vehicles considering stochastic human input and system delay,” in *Proc. European Control Conference (ECC)*, 2023.
+
+7. J. Lu, **S. Hossain**, W. Sheng, and H. Bai, “Cooperative driving in mixed traffic of manned and unmanned vehicles based on human driving behavior understanding,” in *Proc. IEEE International Conference on Robotics and Automation (ICRA)*, 2023.
+
+8. **S. Hossain**, J. Lu, H. Bai, and W. Sheng, “Stochastic model predictive control for coordination of autonomous and human-driven vehicles,” in *Proc. 4th IFAC Workshop on Cyber-Physical and Human Systems (CPHS)*, 2022.
+
+9. J. Lu, R. Stracener, W. Sheng, H. Bai, and **S. Hossain**, “Development of a research testbed for cooperative driving in mixed traffic of human-driven and autonomous vehicles,” in *Proc. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2022.
+
+10. M. R. Rashid, N. Uzzaman, **S. Hossain**, and N. K. Das Shuvra, “Development of a self-navigating algorithm for library book finder robot,” in *Proc. 3rd International Conference on Electrical Information and Communication Technology (EICT)*, 2017.
+
+11. N. Uzzaman, **S. Hossain**, and A. Hossain, “Geometrical approach for determining the throwing destination of an automatic throwing robot,” in *Proc. 3rd International Conference on Electrical Information and Communication Technology (EICT)*, 2016.
+
+12. N. Uzzaman, **S. Hossain**, R. Rashid, and A. Hossain, “A comparative analysis between light-dependent and ultrasonic method of gesture recognition,” in *Proc. 3rd International Conference on Electrical Information and Communication Technology (EICT)*, 2016.
+
+13. N. Uzzaman, **S. Hossain**, and A. Hossain, “Controlling an industrial robotic arm by light dependent gesture recognition,” in *Proc. 11th International Conference on Mechanical Engineering (ICME)*, BUET, Bangladesh, 2015.
 
 
 ## Awards and Honors
