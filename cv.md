@@ -11,16 +11,14 @@ Subtitle: sanzida.hossain@okstate.edu
 
 
 ## Professional Experience
-**Visiting Assistant Professor (Incoming)**			     Appointment begins January 2027
+**Visiting Assistant Professor (Incoming), Materials, Mechatronics and Manufacturing Engineering, Oklahoma State University, Stillwater, OK**			     (Appointment begins January 2027)
 
 Materials, Mechatronics and Manufacturing Engineering, Oklahoma State University, Stillwater, OK   
 -	Scheduled to teach three courses per semester, including Microprocessor II and Dynamics.
 -	Will develop course materials, deliver lectures, and design assignments and assessments.
 -	Will provide academic support and guide students through practical engineering applications.
 
-**Adjunct Assistant Professor**							Aug 2026 - present 
-
-Materials, Mechatronics and Manufacturing Engineering, Oklahoma State University, Stillwater, OK   
+**Adjunct Assistant Professor, Materials, Mechatronics and Manufacturing Engineering, Oklahoma State University, Stillwater, OK**							(Aug 2026 - present) 
 Taught course: Microprocessor I (EET 3253)
 -	Independently developed and delivered lectures on microcontroller programming, digital and analog interfaces, timers, PWM, and peripheral communication.
 -	Designed hands-on demonstrations using PIC microcontrollers and MPLAB X IDE to connect theoretical concepts with hardware implementation.
@@ -28,7 +26,7 @@ Taught course: Microprocessor I (EET 3253)
 -	Supervised a teaching assistant and supported in-person and online students through office hours and technical guidance.
 
 
-**Graduate Research Assistant, Oklahoma State University, Stillwater, OK (_January 2022- present_)**
+**Graduate Research Assistant, Oklahoma State University, Stillwater, OK** (_January 2022- present_)
 -	Formulated autonomous and human-driven vehicle coordination in a connected environment as a mixed integer problem (MIP) using discrete hybrid system automata (DHSA)
 -	Designed stochastic model predictive controller (sMPC) to address the uncertainty of human driver behavior
 -	Developed a framework for multi vehicle coordination to reach a specified goal in a mixed traffic scenario
@@ -39,19 +37,19 @@ Taught course: Microprocessor I (EET 3253)
 -	Conducted human in the loop (HITL) experiments to assess the performance of the cooperative driving framework in complex driving scenarios on the developed simulation testbed 
 
 
-**Graduate Teaching Assistant, Oklahoma State University, Stillwater, OK (_August 2021- present_)**
+**Graduate Teaching Assistant, Oklahoma State University, Stillwater, OK** (_August 2021- present_)
 - Taught courses: Elementary Dynamics, Engineering Design with CAD, Computer Methods in Analysis & Design 
 -	Prepared and delivered lab/discussion lectures on related topics
 -	Holding office hours to help students understand difficult topics
 -	Exam and assignment grading
 
-**Controls Engineer, Intralox LLC, Hannover, MD (_April 2021- July 2021_)**
+**Controls Engineer, Intralox LLC, Hannover, MD** (_April 2021- July 2021_)
 -	Reviewed design layouts of automatic sorting conveyors in AutoCAD electrical
 -	Performed troubleshooting of automatic mail sorting conveyors at USPS and UPS facilities 
 -	Development and modification of PLC control algorithms for sorting conveyors
 -	Trained on different designs of automatic sorting conveyors developed by Intralox
 
-**Graduate Teaching Assistant, Kansas State University, Manhattan, KS (_August 2017- December 2020_)**
+**Graduate Teaching Assistant, Kansas State University, Manhattan, KS** (_August 2017- December 2020_)
 - Taught course: Classical control theory
 -	Delivered lab lectures on related classical control theory topics, such as modeling of dynamic systems and control system design
 -	Demonstrated MATLAB coding, Simulink, Control System Designer toolbox and experimental analysis of control systems in the labs
@@ -59,7 +57,7 @@ Taught course: Microprocessor I (EET 3253)
 -	Discussed how to validate the model by experimenting, data analyzing and model-data comparing
 -	Generated empirical system model and Bode plot from experimented data to predict system behavior in the frequency response domain
 
-**Lecturer, Department of Mechanical Engineering, Military Institute of Science and Technology (MIST), Dhaka, Bangladesh (_March 2016- June 2017_)**
+**Lecturer, Department of Mechanical Engineering, Military Institute of Science and Technology (MIST), Dhaka, Bangladesh** (_March 2016- June 2017_)
 -	Contributed to developing an entire lab course which involved developing lab assignments and handouts for the course
 -	Delivered lectures in classes and labs for courses like introduction to mechanical engineering, automobile engineering, mechanical engineering drawing, machine shop, fluid mechanics, etc.
 -	Assisted in organizing an international conference, organized by the Department of Mechanical Engineering, MIST
