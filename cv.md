@@ -11,14 +11,16 @@ Subtitle: sanzida.hossain@okstate.edu
 
 
 ## Professional Experience
-**Visiting Assistant Professor (Incoming)			     Appointment begins January 2027**
+**Visiting Assistant Professor (Incoming)**			     Appointment begins January 2027
+
 Materials, Mechatronics and Manufacturing Engineering, Oklahoma State University, Stillwater, OK   
 -	Scheduled to teach three courses per semester, including Microprocessor II and Dynamics.
 -	Will develop course materials, deliver lectures, and design assignments and assessments.
 -	Will provide academic support and guide students through practical engineering applications.
 
-**Adjunct Assistant Professor							Aug 2026 - present Materials**
-Mechatronics and Manufacturing Engineering, Oklahoma State University, Stillwater, OK   
+**Adjunct Assistant Professor**							Aug 2026 - present 
+
+Materials, Mechatronics and Manufacturing Engineering, Oklahoma State University, Stillwater, OK   
 Taught course: Microprocessor I (EET 3253)
 -	Independently developed and delivered lectures on microcontroller programming, digital and analog interfaces, timers, PWM, and peripheral communication.
 -	Designed hands-on demonstrations using PIC microcontrollers and MPLAB X IDE to connect theoretical concepts with hardware implementation.
