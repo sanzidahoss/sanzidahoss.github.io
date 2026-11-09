@@ -4,7 +4,7 @@ title: Sanzida Hossain
 ---
 ![Sanzida](/assets/img/prof_pic2.png)
 
-**Incoming Visiting Assistant Professor, Starting from January 2027**
+**Incoming Visiting Assistant Professor (Full time), Starting from January 2027**
 
 **Currently Adjunct Assistant Professor**
 
