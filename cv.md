@@ -3,16 +3,12 @@ layout: page
 title: CV of Sanzida Hossain
 Subtitle: sanzida.hossain@okstate.edu
 ---
-## Skills
--	Tools: MATLAB, Simulink, CARLA,	SUMO,	AutoCAD,	Solidworks,	MS office,	Linux,	LabVIEW,	Git,	RSLogix 5000,	Stateflow
--	Programming language: C, C++, MATLAB, Python, Bash
--	Micro-Controller: PIC microcontroller (8 bit), Arduino, STM32 (32 bit)
-
 
 ## Education
 - PhD in Mechanical Engineering | Oklahoma State University (_Aug 2025_)
 - Master of Science in Mechanical Engineering | Kansas State University, Manhattan, KS (_December 2020_)
 - Bachelor of Science in Mechanical Engineering | Military Institute of Science and Technology (MIST), Dhaka, Bangladesh (_January 2016_)
+
 
 ## Professional Experience
 **Visiting Assistant Professor (Incoming)			     Appointment begins January 2027**
