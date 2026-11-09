@@ -5,6 +5,10 @@ title: Publications
   
   [Paper: A multi-vehicle, multi-lane cooperative driving framework in mixed traffic with driving advisory](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ytdiw5gAAAAJ&sortby=pubdate&citation_for_view=ytdiw5gAAAAJ:MXK_kJrjxJIC)
 
+- J. Lu, S. Hossain, W. Sheng, and H. Bai, “A Research Testbed for Intelligent and Cooperative Driving in Mixed Traffic”, Under review in IEEE Transactions on Intelligent Transportation Systems, 2024.
+  
+  [Paper:A Research Testbed for Intelligent and Cooperative Driving in Mixed Traffic](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ytdiw5gAAAAJ&sortby=pubdate&citation_for_view=ytdiw5gAAAAJ:5nxA0vEk-isC)
+
 -	J. Lu, S. Hossain, W. Sheng, and H. Bai, “A Research Testbed for Intelligent and Cooperative Driving in Mixed Traffic”, Under review in IEEE Transactions on Intelligent Transportation Systems, 2024.
   
   [Paper: A Research Testbed for Intelligent and Cooperative Driving in Mixed Traffic](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ytdiw5gAAAAJ&sortby=pubdate&citation_for_view=ytdiw5gAAAAJ:5nxA0vEk-isC)
