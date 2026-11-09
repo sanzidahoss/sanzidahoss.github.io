@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sanzida Hossain
+title: Sanzida Hossain, PhD
 ---
 
 ![Sanzida Hossain](/assets/img/prof_pic2.png)
