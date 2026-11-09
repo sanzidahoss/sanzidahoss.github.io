@@ -4,10 +4,18 @@ title: CV of Sanzida Hossain
 Subtitle: sanzida.hossain@okstate.edu
 ---
 
+
 ## Education
-- PhD in Mechanical Engineering | Oklahoma State University (_August 2026_)
-- Master of Science in Mechanical Engineering | Kansas State University, Manhattan, KS (_May 2021_)
-- Bachelor of Science in Mechanical Engineering | Military Institute of Science and Technology (MIST), Dhaka, Bangladesh (_January 2016_)
+
+- **Ph.D. in Mechanical Engineering**  
+  Oklahoma State University, Stillwater, OK | August 2026
+
+- **M.S. in Mechanical Engineering**  
+  Kansas State University, Manhattan, KS | May 2021
+
+- **B.S. in Mechanical Engineering**  
+  Military Institute of Science and Technology (MIST), Dhaka, Bangladesh | January 2016
+
 
 
 ## Professional Experience
