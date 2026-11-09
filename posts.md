@@ -2,11 +2,6 @@
 title: News & Highlights
 ---
 
-# News & Highlights
-
-Welcome to my news and highlights page! Here, I share updates on my academic journey, teaching activities, research publications, and professional achievements.
-
----
 
 ### November 2026 | Teaching Microprocessor I at Oklahoma State University
 
