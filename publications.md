@@ -1,8 +1,6 @@
-
 ---
 title: Publications
 ---
-
 - J. Lu, S. Hossain, W. Sheng, and H. Bai, “Personalized and adaptive driver advising for cooperative driving in mixed traffic,” *IEEE Transactions on Vehicular Technology*, in press, 2026.
 
 - S. Hossain, J. Lu, H. Bai, and W. Sheng, “A multi-vehicle, multi-lane cooperative driving framework in mixed traffic with driving advisory,” *IEEE Transactions on Vehicular Technology*, 2026.
