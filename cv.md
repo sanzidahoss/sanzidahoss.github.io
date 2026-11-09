@@ -5,7 +5,7 @@ Subtitle: sanzida.hossain@okstate.edu
 ---
 
 ## Education
-- PhD in Mechanical Engineering | Oklahoma State University (_Aug 2025_)
+- PhD in Mechanical Engineering | Oklahoma State University (_Aug 2026_)
 - Master of Science in Mechanical Engineering | Kansas State University, Manhattan, KS (_December 2020_)
 - Bachelor of Science in Mechanical Engineering | Military Institute of Science and Technology (MIST), Dhaka, Bangladesh (_January 2016_)
 
