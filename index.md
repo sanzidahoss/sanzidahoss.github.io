@@ -7,6 +7,15 @@ title: Sanzida Hossain
 
 <div style="margin-top: 20px; margin-bottom: 25px;">
 
+  <h2 style="margin-bottom: 8px; color: #C62828; font-weight: 700;">
+  Incoming Visiting Assistant Professor
+  </h2>
+  <p style="margin-top: 0; margin-bottom: 18px;">
+    <strong>Oklahoma State University</strong><br>
+    Department of Materials, Mechatronics and Manufacturing Engineering<br>
+    Starting January 2027 | Full-Time Appointment
+  </p>
+
   <h2 style="margin-bottom: 8px;">Adjunct Assistant Professor</h2>
   <p style="margin-top: 0; margin-bottom: 18px;">
     <strong>Oklahoma State University</strong><br>
@@ -15,12 +24,6 @@ title: Sanzida Hossain
     August 2026 – Present
   </p>
 
-  <h2 style="margin-bottom: 8px;">Incoming Visiting Assistant Professor</h2>
-  <p style="margin-top: 0; margin-bottom: 18px;">
-    <strong>Oklahoma State University</strong><br>
-    Department of Materials, Mechatronics and Manufacturing Engineering<br>
-    Starting January 2027 | Full-Time Appointment
-  </p>
 
 </div>
 
